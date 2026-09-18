@@ -1,0 +1,67 @@
+h1{
+   text-align: center;
+   font-family: Arial;
+   color: #FFD073;
+   margin: 20px 0 10px 0;
+  background: #8370D8;
+  padding: 30px 10px  20px 10px;
+  border-radius: 80px 0 0;
+   }
+
+main{
+  background: #D0CEFF;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 14px;
+}
+
+h2{
+  margin: 12px 0 6px 0;
+  padding: 10px 12px;
+  border-radius: 12px;
+}
+
+p{ 
+  margin: 0 0 10px 0;
+  padding: 8px 12px;
+  border-radius: 12px;
+}
+.vip{
+  background: #FEF4D5;
+  border-left: 6px solid #ED9D00;
+}
+
+.kids{
+  background: #F0FFF0 ;
+  border-left: 6px solid #52A502;
+}
+
+.night{
+   background: #EAF2FF  ;
+  border-left: 6px solid #12B5FB ;
+}
+
+.solid1{
+   background: #F4F5F7 ;
+  border-left: 6px solid #A62702 ;
+  opacity: 0.7;
+  margin-top: 50px;
+}
+
+.solid2{
+  background: #F4F5F7 ;
+  border-left: 6px solid #A62702 ;
+  opacity: 0.7;
+}
+
+.seat{
+  display: inline-blok;
+  margin: 6px 6px 0 0;
+  padding: 8px 10px;
+  border-radius: 12px;
+  border: 1px solid #FFB4DC ;
+  background: #F4F5F7 ;
+}
+.free{ border-left: 6px solid  #ED9D00; }
+.busy{ border-left: 6px solid #52A502;}
+.vipp{ border-left: 6px solid #12B5FB; font-weight: bold;}
